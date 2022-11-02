@@ -64,6 +64,10 @@ img {
   padding-left: 0px;
 }
 
+.list-line {
+  list-style: none;
+  padding-left: 0px;
+}
 @media (max-width: 960px) {
   /* For a screen < 960px, this CSS will be read */
   .container {
